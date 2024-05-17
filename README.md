@@ -1,4 +1,4 @@
-.ENV Format
+.env Format
 
 ```
 #AWS S3
